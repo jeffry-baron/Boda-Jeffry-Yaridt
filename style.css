@@ -218,11 +218,11 @@ a {
   p {
     text-align: center;
     font-family: "Oranienbaum", serif;
-    font-size: 1.7rem;
-    line-height: 2.4rem;
+    font-size: 1.3rem;
+    line-height: 1.4rem;
   }
 
   .galeria2{
-    padding: 7px 0;
+    padding: 10px 0;
   }
 }
