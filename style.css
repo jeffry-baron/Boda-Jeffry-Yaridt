@@ -1,7 +1,7 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
 :root {
-  --morado: #af7843;
+  --morado: #791724;
   --blanco: #f5f4f4;
   --dorado: #b49e2d;
 }
@@ -223,6 +223,6 @@ a {
   }
 
   .galeria2{
-    padding: 5px;
+    padding: 7px 0;
   }
 }
