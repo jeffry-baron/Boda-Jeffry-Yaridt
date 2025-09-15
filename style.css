@@ -56,16 +56,16 @@ p {
   color: var(--morado);
 }
 
-.dorado{
+.dorado {
   color: var(--dorado);
 }
 
-.galeria{
-  width: 100% !important; 
+.galeria {
+  width: 100% !important;
   border-radius: 15px;
 }
 
-.galeria2{
+.galeria2 {
   height: 100px;
   width: 100px;
   border-radius: 15px;
@@ -189,14 +189,36 @@ a {
   text-decoration: none;
 }
 
-.Galeria img{
+.Galeria img {
   width: 100% !important;
   border-radius: 15px;
   padding: 0 5px;
 }
 
+@media only screen and (max-width: 480px) {
 
+  h1 {
+    font-family: "Fleur De Leah", serif;
+    font-size: 3.5rem;
+    text-align: center;
+  }
 
+  h2 {
+    font-family: "Charm", serif;
+    text-align: center;
+    font-size: 2.9rem;
+  }
 
+  h3 {
+    text-align: center;
+    font-family: "Domine", serif;
+    font-size: 2rem;
+  }
 
-@media screen {}
+  p {
+    text-align: center;
+    font-family: "Oranienbaum", serif;
+    font-size: 1.7rem;
+    line-height: 2.4rem;
+  }
+}
