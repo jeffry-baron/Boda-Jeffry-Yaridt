@@ -187,6 +187,7 @@ a {
   color: var(--blanco);
   background-color: var(--morado);
   text-decoration: none;
+  margin: 0 10px;
 }
 
 .Galeria img {
@@ -227,3 +228,4 @@ a {
   }
 
 }
+
